@@ -29,3 +29,5 @@ Another change on Jun 27.
 Test changelist on Jenkins
 
 Check git changelist hooked with pipeline
+
+Check git changelist hooked with pipeline
