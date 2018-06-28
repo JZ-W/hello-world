@@ -5,7 +5,8 @@
     stages {
         stage('Build') {            
             steps {                
-                echo 'Building'            
+                echo 'Building'
+                sh 'python --version'
             }        
         }        
         stage('Test') {            
