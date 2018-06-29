@@ -6,7 +6,7 @@
         stage('Build') {            
             steps {                
                 echo 'Building'
- 
+                sh 'printenv'
             }        
         }        
         stage('Test') {            
